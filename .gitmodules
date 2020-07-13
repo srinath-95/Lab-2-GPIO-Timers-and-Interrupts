@@ -1,0 +1,3 @@
+[submodule "github-classroom-scripts"]
+	path = github-classroom-scripts
+	url = https://github.com/dwalkes/github-classroom-scripts.git
